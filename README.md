@@ -85,4 +85,4 @@ The `AdvancedCounter` is a functional component developed with Next.js, TypeScri
 
 
 ## Live Preview (Demo)
-Experience the functionality of the `Counter` component in action. Visit the live preview at [Counter Demo]().
+Experience the functionality of the `Counter` component in action. Visit the live preview at [Counter Demo](https://next-counter-opal.vercel.app/).
